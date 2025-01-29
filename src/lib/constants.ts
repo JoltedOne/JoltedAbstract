@@ -5,7 +5,7 @@ export const defaultNftContractAddress = "0xA724820f03a7AC6091a911840300BCC26Ca7
 
 /**
  * Change this to the chainId that your nft collection is deployed on
- * Look for your chain: https://thirdweb.com/chainlist
+ * Look for your  chain: https://thirdweb.com/chainlist
  */
 export const defaultChainId = 2741;
 
