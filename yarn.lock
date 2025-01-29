@@ -2268,6 +2268,11 @@ next@^14.2.23:
     "@next/swc-win32-ia32-msvc" "14.2.23"
     "@next/swc-win32-x64-msvc" "14.2.23"
 
+nextjs@^0.0.3:
+  version "0.0.3"
+  resolved "https://registry.npmjs.org/nextjs/-/nextjs-0.0.3.tgz"
+  integrity sha512-mYbDUo4/sRAZ8TqK63PCpYnFiLg7BICG/ot9+guOrUKd4/Fo71ZmEQ41IZbH6nqbQvG7SXTBuofJXAIWfNho0w==
+
 node-addon-api@^7.0.0:
   version "7.1.1"
   resolved "https://registry.npmjs.org/node-addon-api/-/node-addon-api-7.1.1.tgz"
