@@ -22,7 +22,7 @@ import {
 import { getActiveClaimCondition as getActiveClaimCondition20 } from "thirdweb/extensions/erc20";
 import { useReadContract } from "thirdweb/react";
 
-// This page renders on the client.
+// This page renders on the client..
 // If you are looking for a server-rendered version, checkout src/ssr/page.tsx
 export default function Home() {
 	const tokenId = defaultTokenId;
